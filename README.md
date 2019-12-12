@@ -66,5 +66,5 @@ codetyphon markdown SQLite knowledge tool
 
 2. Use Typhon64 to open source/km.ctpr project file.
 
-![CodeTyphon Project.png](images/CodeTyphon Project.png)
+![CodeTyphon Project.png](images/codeTyphon_project.png)
 
