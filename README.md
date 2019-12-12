@@ -3,6 +3,9 @@
 
 codetyphon markdown SQLite knowledge tool
 
+![](images/new.gif)
+
+
 
 **License**: [GNU General Public License v3.0](https://github.com/km-markdown/codetyphon_km/blob/master/LICENSE "GNU General Public License v3.0")  
 **Program Language**: Free Pascal  
