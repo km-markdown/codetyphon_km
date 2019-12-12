@@ -3,6 +3,11 @@
 
 codetyphon markdown SQLite knowledge tool
 
+## How to use it(FAQ)
+
+[FAQ](https://github.com/km-markdown/codetyphon_km/blob/master/FAQ.md "FAQ")
+
+
 **License**: [GNU General Public License v3.0](https://github.com/km-markdown/codetyphon_km/blob/master/LICENSE "GNU General Public License v3.0")  
 **Program Language**: Free Pascal  
 **Build Tool**: [codetyphon Studio](https://www.pilotlogic.com/sitejoom/index.php/projects/codetyphon-studio "codetyphon Studio")  
