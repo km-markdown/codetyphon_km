@@ -55,10 +55,10 @@ codetyphon markdown SQLite knowledge tool
 | form_main.frm    | CodeTypon form file                          |
 | form_main.pas    | CodeTypon pascal source file (Main Logics)   |
 | km.ctpr          | CodeTypon project file                       |
-| km.ctps          |                                              |
-| km.ico           |                                              |
-| km.ppr           |                                              |
-| km.res           |                                              |
+| km.ctps          | Needed by CodeTypon                          |
+| km.ico           | Needed by CodeTypon                          |
+| km.ppr           | Needed by CodeTypon                          |
+| km.res           | Needed by CodeTypon                          |
 
 ### Download & install codetyphon 
 
