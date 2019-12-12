@@ -7,7 +7,9 @@ codetyphon markdown SQLite knowledge tool
 **Program Language**: Free Pascal  
 **Build Tool**: [codetyphon Studio](https://www.pilotlogic.com/sitejoom/index.php/projects/codetyphon-studio "codetyphon Studio")  
 **Third party Tool**:  wkhtmltopdf  
-[wkhtmltopdf] (https://wkhtmltopdf.org/ "wkhtmltopdf")  
+
+[wkhtmltopdf](https://wkhtmltopdf.org "wkhtmltopdf")
+ 
 
 ## Knowledge Base Offline for Windows
 
