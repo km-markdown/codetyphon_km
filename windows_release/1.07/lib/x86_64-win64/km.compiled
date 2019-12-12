@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\codetyphon\fpc\fpc64\bin\x86_64-win64\fpc.exe" Date="1334530666"/>
+  <Params Value=" -MObjFPC -Scghi -O2 -WG -l -vewnhibq -FiD:\data\git_projects\codetyphon_km\source\lib\x86_64-win64 -FuC:\codetyphon\typhon\components\pl_RichMemo\lib\x86_64-win64\win32 -FuC:\codetyphon\typhon\components\pl_ColorLib\lib\x86_64-win64\win32 -FuC:\codetyphon\typhon\components\pl_HtmlViewer\lib\x86_64-win64\win32 -FuC:\codetyphon\typhon\components\BaseIdeintf\units\x86_64-win64\win32 -FuC:\codetyphon\typhon\components\lz_Printers\lib\x86_64-win64\win32 -FuC:\codetyphon\typhon\components\BaseControls\lib\x86_64-win64\win32 -FuC:\codetyphon\typhon\lcl\units\x86_64-win64\win32 -FuC:\codetyphon\typhon\lcl\units\x86_64-win64 -FuC:\codetyphon\typhon\components\BaseUtils\lib\x86_64-win64 -FuC:\codetyphon\typhon\packager\units\x86_64-win64 -FuD:\data\git_projects\codetyphon_km\source\ -FUD:\data\git_projects\codetyphon_km\source\lib\x86_64-win64\ -FED:\data\git_projects\codetyphon_km\source\ -oD:\data\git_projects\codetyphon_km\source\KnowledgeBaseOfflineMarkdown.exe -dLCL -dadLCL -dLCLwin32 km.ppr"/>
+</CONFIG>
