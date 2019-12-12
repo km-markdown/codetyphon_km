@@ -1,8 +1,12 @@
-[toc]
 
 # codetyphon_km
 
 codetyphon markdown SQLite knowledge tool
+
+**license**: GNU General Public License v3.0
+**language**: Free Pascal
+**Build Tool**: [codetyphon Studio](https://www.pilotlogic.com/sitejoom/index.php/projects/codetyphon-studio "codetyphon Studio")
+**Third party Tool**": [wkhtmltopdf] (https://wkhtmltopdf.org/ "wkhtmltopdf")
 
 ## Knowledge Base Offline for Windows
 
@@ -16,7 +20,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 - full-text searches
 - Build by CodeTyphon 
 - Export to Html file
-- Export to PDF file(with wkhtmltox)
+- Export to PDF file(with wkhtmltopdf)
 - Copy to ClipBoard
 - Open with default web browser
 
