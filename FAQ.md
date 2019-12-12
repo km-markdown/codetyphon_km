@@ -12,3 +12,14 @@
 
 ## How to add new note
 
+Click on the following icon to add new note:
+
+![](images/new-01.png)
+
+After edit, Then click on Save Icon:
+![](images/new-save.png)
+
+![](images/new.gif)
+
+
+
