@@ -5,6 +5,10 @@ codetyphon markdown SQLite knowledge tool
 
 ![](images/new.gif)
 
+<video src="movie.ogg" controls="controls">
+您的浏览器不支持 video 标签。
+</video>
+
 
 
 **License**: [GNU General Public License v3.0](https://github.com/km-markdown/codetyphon_km/blob/master/LICENSE "GNU General Public License v3.0")  
