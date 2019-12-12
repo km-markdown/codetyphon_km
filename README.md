@@ -43,6 +43,23 @@ codetyphon markdown SQLite knowledge tool
 
 ## How to build with source code 
 
+### Source code instructions
+
+| Directory & file | Instruction                                  |
+|------------------|----------------------------------------------|
+| data             | km_data_fts.db in it,storeing markdown files |
+| img              | Icons need by the project.                   |
+| wkhtmltox        | Convert to PDF tool                          |
+| form_about.frm   | CodeTypon form file                          |
+| form_about.pas   | CodeTypon pascal source file                 |
+| form_main.frm    | CodeTypon form file                          |
+| form_main.pas    | CodeTypon pascal source file (Main Logics)   |
+| km.ctpr          | CodeTypon project file                       |
+| km.ctps          |                                              |
+| km.ico           |                                              |
+| km.ppr           |                                              |
+| km.res           |                                              |
+
 ### Download & install codetyphon 
 
 1. [codetyphon Studio](https://www.pilotlogic.com/sitejoom/index.php/projects/codetyphon-studio "codetyphon Studio")
