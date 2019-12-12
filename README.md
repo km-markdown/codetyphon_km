@@ -1,3 +1,5 @@
+[toc]
+
 # codetyphon_km
 
 codetyphon markdown SQLite knowledge tool
@@ -27,7 +29,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ### Download & install codetyphon 
 
-1. [codetyphon](https://www.pilotlogic.com/sitejoom/index.php/projects/codetyphon-studio "codetyphon")
+1. [codetyphon Studio](https://www.pilotlogic.com/sitejoom/index.php/projects/codetyphon-studio "codetyphon Studio")
 
 2. Use Typhon64 to open source/km.ctpr project file.
 
