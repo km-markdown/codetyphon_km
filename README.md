@@ -8,6 +8,10 @@ codetyphon markdown SQLite knowledge tool
 **Build Tool**: [codetyphon Studio](https://www.pilotlogic.com/sitejoom/index.php/projects/codetyphon-studio "codetyphon Studio")  
 **Third party Tool**:   [wkhtmltopdf](https://wkhtmltopdf.org "wkhtmltopdf")
  
+sqlite3.dll 64bit Must be exist with KnowledgeBaseOfflineMarkdown.exe.
+
+[sqlite-dll-win64-x64-3300100.zip](https://www.sqlite.org/download.html "sqlite-dll-win64-x64-3300100.zip")
+
 
 
 ## Fetures
