@@ -3,10 +3,6 @@
 
 codetyphon markdown SQLite knowledge tool
 
-## How to use it(FAQ)
-
-[FAQ](https://github.com/km-markdown/codetyphon_km/blob/master/FAQ.md "FAQ")
-
 
 **License**: [GNU General Public License v3.0](https://github.com/km-markdown/codetyphon_km/blob/master/LICENSE "GNU General Public License v3.0")  
 **Program Language**: Free Pascal  
@@ -23,8 +19,6 @@ codetyphon markdown SQLite knowledge tool
 
 [sqlite-dll-win64-x64-3300100.zip](https://www.sqlite.org/download.html "sqlite-dll-win64-x64-3300100.zip")
 
-
-
 ## Fetures
 
 - Free Software
@@ -38,11 +32,16 @@ codetyphon markdown SQLite knowledge tool
 - Open with default web browser
 
 
+## How to use it(FAQ)
+
+[Please look into the FAQ](https://github.com/km-markdown/codetyphon_km/blob/master/FAQ.md "FAQ")
+
+
 ## Screen shots 
 
 ![](images/baa5616eb502c755fe8a068816acf743.png)
 
-## How to build 
+## How to build with source code 
 
 ### Download & install codetyphon 
 
